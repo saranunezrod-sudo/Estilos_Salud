@@ -1,0 +1,51 @@
+name: Proponer un nuevo estilo
+description: Sugiere un estilo visual sanitario para NotebookLM
+title: "[Estilo] "
+labels: ["nuevo-estilo"]
+body:
+  - type: input
+    id: nombre
+    attributes:
+      label: Nombre del estilo
+    validations:
+      required: true
+  - type: dropdown
+    id: categoria
+    attributes:
+      label: Categoría
+      options:
+        - Clínico y profesional
+        - Educación al paciente
+        - Producto y cosmética
+        - Retro y creativos
+        - Colores sanitarios y campañas
+        - Otra
+    validations:
+      required: true
+  - type: textarea
+    id: uso
+    attributes:
+      label: ¿Para qué sirve y a quién va dirigido?
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Prompt (en inglés, si ya lo tienes)
+      render: text
+  - type: textarea
+    id: ejemplos
+    attributes:
+      label: Referencias visuales o ejemplos
+      description: Enlaces o descripción. No subas imágenes con datos de pacientes ni material con derechos de terceros.
+  - type: checkboxes
+    id: confirmaciones
+    attributes:
+      label: Confirmaciones
+      options:
+        - label: No contiene datos personales ni clínicos de pacientes reales.
+          required: true
+        - label: Es obra mía o indico la fuente y su licencia.
+          required: true
+        - label: Acepto publicarlo bajo CC BY 4.0.
+          required: true
