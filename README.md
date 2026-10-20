@@ -239,7 +239,7 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 
 Presentar productos cosméticos y dermocosméticos a clientes, equipo de farmacia o proveedores
 
-<img src="images/05-cosmetica-premium-mockup/ejemplo-1.png" width="320" alt="Ejemplo de Cosmética Premium Mockup">
+<img src="images/05-cosmetica-premium-mockup/ejemplo-1.png" width="320" alt="Ejemplo de Cosmética Premium Mockup"> <img src="images/05-cosmetica-premium-mockup/ejemplo-2.png" width="320" alt="Ejemplo de Cosmética Premium Mockup">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
