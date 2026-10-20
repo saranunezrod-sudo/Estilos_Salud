@@ -59,6 +59,6 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 
 ## Notas de uso
 - Funciona bien para narrativa: línea temporal de una trayectoria, evolución de un tratamiento o historia de una botica.
-- Añade tus ejemplos reales en `images/09-film-scrapbook/` y ejecuta `python3 -I scripts/build_readme.py`.
+- Añade tus ejemplos reales en `images/08-film-scrapbook/` y ejecuta `python3 -I scripts/build_readme.py`.
 
-> 🖼️ Las imágenes de `images/09-film-scrapbook/` son solo una **guía orientativa** del estilo: el resultado real puede variar según tus fuentes y la herramienta.
+> 🖼️ Las imágenes de `images/08-film-scrapbook/` son solo una **guía orientativa** del estilo: el resultado real puede variar según tus fuentes y la herramienta.

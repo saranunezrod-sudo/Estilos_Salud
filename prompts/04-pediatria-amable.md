@@ -48,4 +48,4 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 - Funciona bien para explicar "qué va a pasar" antes de una vacuna o una analítica.
 - Revisa que el texto no genere miedo ni prometa que "no dolerá" si la fuente no lo dice.
 
-> 🖼️ Las imágenes de `images/05-pediatria-amable/` son solo una **guía orientativa** del estilo: el resultado real puede variar según tus fuentes y la herramienta.
+> 🖼️ Las imágenes de `images/04-pediatria-amable/` son solo una **guía orientativa** del estilo: el resultado real puede variar según tus fuentes y la herramienta.

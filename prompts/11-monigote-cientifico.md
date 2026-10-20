@@ -49,9 +49,8 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 ```
 
 ## Notas de uso
-- Imagen de referencia del protagonista: [images/12-monigote-cientifico/protagonista.png](../images/12-monigote-cientifico/protagonista.png).
-- Para que mantenga el mismo personaje, prueba además a subir esa imagen como fuente del cuaderno.
+- Para que mantenga el mismo personaje, prueba además a subir una imagen de referencia de tu protagonista como fuente del cuaderno.
 - La IA suele cometer erratas en las etiquetas dibujadas (por ejemplo "EQUILRBO"). La regla de ortografía ayuda, pero revisa siempre los textos de cada diapositiva.
 - Si cambias el aspecto del protagonista, edita solo la clave `protagonist`.
 
-> 🖼️ Las imágenes de `images/12-monigote-cientifico/` son solo una **guía orientativa** del estilo: el resultado real puede variar según tus fuentes y la herramienta.
+> 🖼️ Las imágenes de `images/11-monigote-cientifico/` son solo una **guía orientativa** del estilo: el resultado real puede variar según tus fuentes y la herramienta.

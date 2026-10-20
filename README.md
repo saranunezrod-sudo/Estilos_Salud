@@ -33,7 +33,6 @@ Las imágenes de ejemplo son **solo una guía orientativa**: al usar **IA genera
 - [Boletín Sanitario](#boletín-sanitario)
 - [Minimalismo Clínico](#minimalismo-clínico)
 - [Sesión Clínica Minimal](#sesión-clínica-minimal)
-- [Guía de Práctica Calm](#guía-de-práctica-calm)
 - [Interfaz Web Farmacia](#interfaz-web-farmacia)
 
 ### B. Educación al paciente
@@ -151,7 +150,7 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 
 Sesiones y charlas con poco texto y mucho impacto visual
 
-<img src="images/03-sesion-clinica-minimal/ejemplo-1.png" width="320" alt="Ejemplo de Sesión Clínica Minimal"> <img src="images/03-sesion-clinica-minimal/ejemplo-2.png" width="320" alt="Ejemplo de Sesión Clínica Minimal"> <img src="images/03-sesion-clinica-minimal/ejemplo-3.png" width="320" alt="Ejemplo de Sesión Clínica Minimal"> <img src="images/03-sesion-clinica-minimal/ejemplo-4.png" width="320" alt="Ejemplo de Sesión Clínica Minimal"> <img src="images/03-sesion-clinica-minimal/ejemplo-5.png" width="320" alt="Ejemplo de Sesión Clínica Minimal">
+<img src="images/03-sesion-clinica-minimal/ejemplo-1.png" width="320" alt="Ejemplo de Sesión Clínica Minimal"> <img src="images/03-sesion-clinica-minimal/ejemplo-2.png" width="320" alt="Ejemplo de Sesión Clínica Minimal">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -189,55 +188,11 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 ```
 *Estado: sin probar · Archivo: [03-sesion-clinica-minimal.md](prompts/03-sesion-clinica-minimal.md) · Inspirado en: For Seminar Use, Minimal Text (Kawai, https://x.com/kawai_design) vía awesome-notebookLM-prompts · Adaptación: Mantenedores del repositorio*
 
-### Guía de Práctica Calm
-
-Protocolos, guías de práctica clínica y procedimientos normalizados de trabajo
-
-<img src="images/04-guia-practica-calm/ejemplo-1.png" width="320" alt="Ejemplo de Guía de Práctica Calm"> <img src="images/04-guia-practica-calm/ejemplo-2.png" width="320" alt="Ejemplo de Guía de Práctica Calm"> <img src="images/04-guia-practica-calm/ejemplo-3.png" width="320" alt="Ejemplo de Guía de Práctica Calm"> <img src="images/04-guia-practica-calm/ejemplo-4.png" width="320" alt="Ejemplo de Guía de Práctica Calm">
-
-*Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
-
-```yaml
-design_system:
-  global_style:
-    theme: "Calm clinical practice. A living protocol: complexity becoming clear steps. Airy, no visual noise."
-    typography:
-      primary_heading: "Clean modern rounded sans-serif, medium-bold, calm authority"
-      secondary_heading: "Small light English labels"
-      body_text: "Clean sans-serif, one concise sentence under each headline, no long paragraphs"
-      language: "the language should be what users said in the prompt"
-    color_palette:
-      background: "#FFFFFF"
-      text_main: "#1B2631"
-      primary_color: "#0072CE"
-      gradient: "very low-opacity blue to cyan to mint on corners only, never behind text"
-    key_visual_elements:
-      - "Thin-line outline icons (cross, stethoscope, checklist, syringe)"
-      - "Soft rounded cards with subtle shadows"
-      - "Dense list turning into a clean checklist or pathway"
-      - "Left-aligned layouts with wide margins"
-
-slide_layout_templates:
-  - type: "Calm_Cover"
-    usage: "Left-aligned headline, one sentence, soft corner gradient"
-  - type: "Text_Left_Visual_Right"
-    usage: "One idea per slide with a thin-line diagram"
-  - type: "Three_Column_Cards"
-    usage: "Icon, title and 1-2 lines per card"
-  - type: "Pathway_Flow"
-    usage: "Sequential steps with directional arrows"
-
-avoid: "pixel art, thick borders, bright blocks, collage, stickers, emojis, hype language"
-
-healthcare_rules: "Use only the provided sources. Never invent doses, indications or figures; leave a marked blank if data is missing. No real patient data. Patient-facing slides end with a small footer: Consult your healthcare professional (in the user's language)."
-```
-*Estado: sin probar · Archivo: [04-guia-practica-calm.md](prompts/04-guia-practica-calm.md) · Inspirado en: Anti-Gravity / Living Artifact (awesome-notebookLM-prompts) · Adaptación: Mantenedores del repositorio*
-
 ### Interfaz Web Farmacia
 
 Presentar herramientas digitales, catálogos, consultas y proyectos de farmacia con aspecto de producto web moderno
 
-<img src="images/16-interfaz-web-farmacia/ejemplo-1.png" width="320" alt="Ejemplo de Interfaz Web Farmacia">
+<img src="images/15-interfaz-web-farmacia/ejemplo-1.png" width="320" alt="Ejemplo de Interfaz Web Farmacia">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -281,7 +236,7 @@ avoid: "dark backgrounds, bright neon colors, heavy shadows, clip art, busy scre
 
 healthcare_rules: "Use only the provided sources. Never invent doses, indications or figures; leave a marked blank if data is missing. No real patient data. Patient-facing slides end with a small footer: Consult your healthcare professional (in the user's language)."
 ```
-*Estado: sin probar · Archivo: [16-interfaz-web-farmacia.md](prompts/16-interfaz-web-farmacia.md) · Inspirado en: Estilo de landing page de producto sanitario verde sobre blanco roto (captura aportada por la persona que mantiene el repositorio) · Adaptación: Mantenedores del repositorio*
+*Estado: sin probar · Archivo: [15-interfaz-web-farmacia.md](prompts/15-interfaz-web-farmacia.md) · Inspirado en: Estilo de landing page de producto sanitario verde sobre blanco roto (captura aportada por la persona que mantiene el repositorio) · Adaptación: Mantenedores del repositorio*
 
 ## B. Educación al paciente
 
@@ -289,7 +244,7 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 
 Niños y familias; explicar procedimientos, vacunas o hábitos de forma amigable
 
-<img src="images/05-pediatria-amable/ejemplo-1.png" width="320" alt="Ejemplo de Pediatría Amable">
+<img src="images/04-pediatria-amable/ejemplo-1.png" width="320" alt="Ejemplo de Pediatría Amable">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -324,7 +279,7 @@ slide_layout_templates:
 
 healthcare_rules: "Use only the provided sources. Never invent doses, indications or figures; leave a marked blank if data is missing. No real patient data. Patient-facing slides end with a small footer: Consult your healthcare professional (in the user's language)."
 ```
-*Estado: sin probar · Archivo: [05-pediatria-amable.md](prompts/05-pediatria-amable.md) · Inspirado en: Deformed Flat Persona (Kawai, https://x.com/kawai_design) vía awesome-notebookLM-prompts · Adaptación: Mantenedores del repositorio*
+*Estado: sin probar · Archivo: [04-pediatria-amable.md](prompts/04-pediatria-amable.md) · Inspirado en: Deformed Flat Persona (Kawai, https://x.com/kawai_design) vía awesome-notebookLM-prompts · Adaptación: Mantenedores del repositorio*
 
 ## C. Producto y cosmética
 
@@ -332,7 +287,7 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 
 Presentar productos cosméticos y dermocosméticos a clientes, equipo de farmacia o proveedores
 
-<img src="images/06-cosmetica-premium-mockup/ejemplo-1.png" width="320" alt="Ejemplo de Cosmética Premium Mockup">
+<img src="images/05-cosmetica-premium-mockup/ejemplo-1.png" width="320" alt="Ejemplo de Cosmética Premium Mockup">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -373,13 +328,13 @@ avoid: "invented claims, percentages, certifications, brand logos"
 
 healthcare_rules: "Use only the provided sources. Never invent doses, indications or figures; leave a marked blank if data is missing. No real patient data. Patient-facing slides end with a small footer: Consult your healthcare professional (in the user's language)."
 ```
-*Estado: sin probar · Archivo: [06-cosmetica-premium-mockup.md](prompts/06-cosmetica-premium-mockup.md) · Inspirado en: Studio / Mockup / Premium (https://note.com/yoshifujidesign/n/n7412bccb5762) vía awesome-notebookLM-prompts · Adaptación: Mantenedores del repositorio*
+*Estado: sin probar · Archivo: [05-cosmetica-premium-mockup.md](prompts/05-cosmetica-premium-mockup.md) · Inspirado en: Studio / Mockup / Premium (https://note.com/yoshifujidesign/n/n7412bccb5762) vía awesome-notebookLM-prompts · Adaptación: Mantenedores del repositorio*
 
 ### Dermocosmética Editorial
 
 Campañas de farmacia, consejos de cuidado de la piel y presentaciones de gama
 
-<img src="images/07-dermocosmetica-editorial/ejemplo-1.png" width="320" alt="Ejemplo de Dermocosmética Editorial"> <img src="images/07-dermocosmetica-editorial/ejemplo-2.png" width="320" alt="Ejemplo de Dermocosmética Editorial"> <img src="images/07-dermocosmetica-editorial/ejemplo-3.png" width="320" alt="Ejemplo de Dermocosmética Editorial">
+<img src="images/06-dermocosmetica-editorial/ejemplo-1.png" width="320" alt="Ejemplo de Dermocosmética Editorial"> <img src="images/06-dermocosmetica-editorial/ejemplo-2.png" width="320" alt="Ejemplo de Dermocosmética Editorial"> <img src="images/06-dermocosmetica-editorial/ejemplo-3.png" width="320" alt="Ejemplo de Dermocosmética Editorial">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -415,13 +370,13 @@ avoid: "childish vivid colors, flashy gradients, heavy shadows, miracle or guara
 
 healthcare_rules: "Use only the provided sources. Never invent doses, indications or figures; leave a marked blank if data is missing. No real patient data. Patient-facing slides end with a small footer: Consult your healthcare professional (in the user's language)."
 ```
-*Estado: sin probar · Archivo: [07-dermocosmetica-editorial.md](prompts/07-dermocosmetica-editorial.md) · Inspirado en: Magazine style (https://x.com/tetumemo/status/1996930284500201685) vía awesome-notebookLM-prompts · Adaptación: Mantenedores del repositorio*
+*Estado: sin probar · Archivo: [06-dermocosmetica-editorial.md](prompts/06-dermocosmetica-editorial.md) · Inspirado en: Magazine style (https://x.com/tetumemo/status/1996930284500201685) vía awesome-notebookLM-prompts · Adaptación: Mantenedores del repositorio*
 
 ### Botánico Acuarela
 
 Fitoterapia, productos naturales, plantas medicinales y gamas de cosmética natural
 
-<img src="images/08-botanico-acuarela/ejemplo-1.png" width="320" alt="Ejemplo de Botánico Acuarela">
+<img src="images/07-botanico-acuarela/ejemplo-1.png" width="320" alt="Ejemplo de Botánico Acuarela">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -456,7 +411,7 @@ slide_layout_templates:
 
 healthcare_rules: "Use only the provided sources. Never invent doses, indications or figures; leave a marked blank if data is missing. No real patient data. Patient-facing slides end with a small footer: Consult your healthcare professional (in the user's language)."
 ```
-*Estado: sin probar · Archivo: [08-botanico-acuarela.md](prompts/08-botanico-acuarela.md) · Inspirado en: Royal Blue and Red watercolor (https://x.com/kottley/status/1994442047579721782) vía awesome-notebookLM-prompts · Adaptación: Mantenedores del repositorio*
+*Estado: sin probar · Archivo: [07-botanico-acuarela.md](prompts/07-botanico-acuarela.md) · Inspirado en: Royal Blue and Red watercolor (https://x.com/kottley/status/1994442047579721782) vía awesome-notebookLM-prompts · Adaptación: Mantenedores del repositorio*
 
 ## D. Retro y creativos
 
@@ -464,7 +419,7 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 
 Historias, biografías, casos narrados, historia de la farmacia y presentaciones tipo documental
 
-<img src="images/09-film-scrapbook/ejemplo-1.png" width="320" alt="Ejemplo de Film Scrapbook"> <img src="images/09-film-scrapbook/ejemplo-2.png" width="320" alt="Ejemplo de Film Scrapbook"> <img src="images/09-film-scrapbook/ejemplo-3.png" width="320" alt="Ejemplo de Film Scrapbook">
+<img src="images/08-film-scrapbook/ejemplo-1.png" width="320" alt="Ejemplo de Film Scrapbook"> <img src="images/08-film-scrapbook/ejemplo-2.png" width="320" alt="Ejemplo de Film Scrapbook">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -512,13 +467,13 @@ slide_layout_templates:
 
 healthcare_rules: "Use only the provided sources. Never invent doses, indications or figures; leave a marked blank if data is missing. No real patient data. Patient-facing slides end with a small footer: Consult your healthcare professional (in the user's language)."
 ```
-*Estado: sin probar · Archivo: [09-film-scrapbook.md](prompts/09-film-scrapbook.md) · Inspirado en: Film Scrapbook (ejemplo de design_system aportado por la persona que mantiene el repositorio) · Adaptación: Mantenedores del repositorio*
+*Estado: sin probar · Archivo: [08-film-scrapbook.md](prompts/08-film-scrapbook.md) · Inspirado en: Film Scrapbook (ejemplo de design_system aportado por la persona que mantiene el repositorio) · Adaptación: Mantenedores del repositorio*
 
 ### Anatomía Pop
 
 Formación creativa, divulgación del cuerpo humano, cursos y jornadas con tono desenfadado
 
-<img src="images/10-anatomia-pop/ejemplo-1.png" width="320" alt="Ejemplo de Anatomía Pop">
+<img src="images/09-anatomia-pop/ejemplo-1.png" width="320" alt="Ejemplo de Anatomía Pop">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -555,13 +510,13 @@ avoid: "real patients, mocking illnesses or disabilities"
 
 healthcare_rules: "Use only the provided sources. Never invent doses, indications or figures; leave a marked blank if data is missing. No real patient data. Patient-facing slides end with a small footer: Consult your healthcare professional (in the user's language)."
 ```
-*Estado: sin probar · Archivo: [10-anatomia-pop.md](prompts/10-anatomia-pop.md) · Inspirado en: Classic / Pop, Sculpture x Vaporwave (https://note.com/yoshifujidesign/n/n7412bccb5762) vía awesome-notebookLM-prompts · Adaptación: Mantenedores del repositorio*
+*Estado: sin probar · Archivo: [09-anatomia-pop.md](prompts/09-anatomia-pop.md) · Inspirado en: Classic / Pop, Sculpture x Vaporwave (https://note.com/yoshifujidesign/n/n7412bccb5762) vía awesome-notebookLM-prompts · Adaptación: Mantenedores del repositorio*
 
 ### Cuaderno de Enfermería
 
 Apuntes, resúmenes de estudio, formación y sesiones con aspecto de cuaderno
 
-<img src="images/11-cuaderno-enfermeria/ejemplo-1.png" width="320" alt="Ejemplo de Cuaderno de Enfermería">
+<img src="images/10-cuaderno-enfermeria/ejemplo-1.png" width="320" alt="Ejemplo de Cuaderno de Enfermería">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -604,13 +559,13 @@ avoid: "gradients, realistic photos, soft shadows, corporate templates"
 
 healthcare_rules: "Use only the provided sources. Never invent doses, indications or figures; leave a marked blank if data is missing. No real patient data. Patient-facing slides end with a small footer: Consult your healthcare professional (in the user's language)."
 ```
-*Estado: sin probar · Archivo: [11-cuaderno-enfermeria.md](prompts/11-cuaderno-enfermeria.md) · Inspirado en: Neo-Retro Dev Deck / Pixel-Infographic Editorial (awesome-notebookLM-prompts) · Adaptación: Mantenedores del repositorio*
+*Estado: sin probar · Archivo: [10-cuaderno-enfermeria.md](prompts/10-cuaderno-enfermeria.md) · Inspirado en: Neo-Retro Dev Deck / Pixel-Infographic Editorial (awesome-notebookLM-prompts) · Adaptación: Mantenedores del repositorio*
 
 ### Revista Amarilla Collage
 
 Novedades normativas, reglas de dispensación y formación de equipo con tono de revista de moda y collage
 
-<img src="images/13-revista-amarilla-collage/ejemplo-1.png" width="320" alt="Ejemplo de Revista Amarilla Collage">
+<img src="images/12-revista-amarilla-collage/ejemplo-1.png" width="320" alt="Ejemplo de Revista Amarilla Collage">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -651,13 +606,13 @@ avoid: "gradients, soft shadows, pastel colors, tidy corporate layouts, fake dat
 
 healthcare_rules: "Use only the provided sources. Never invent doses, indications or figures; leave a marked blank if data is missing. No real patient data. Patient-facing slides end with a small footer: Consult your healthcare professional (in the user's language)."
 ```
-*Estado: sin probar · Archivo: [13-revista-amarilla-collage.md](prompts/13-revista-amarilla-collage.md) · Inspirado en: Estilo editorial amarillo y negro con fotografía en blanco y negro, cinta adhesiva y papel rasgado (capturas aportadas por la persona que mantiene el repositorio) · Adaptación: Mantenedores del repositorio*
+*Estado: sin probar · Archivo: [12-revista-amarilla-collage.md](prompts/12-revista-amarilla-collage.md) · Inspirado en: Estilo editorial amarillo y negro con fotografía en blanco y negro, cinta adhesiva y papel rasgado (capturas aportadas por la persona que mantiene el repositorio) · Adaptación: Mantenedores del repositorio*
 
 ### Duotono Números Gigantes
 
 Informes, estudios y resúmenes ejecutivos numerados con estética tecnológica y editorial
 
-<img src="images/14-duotono-numeros-gigantes/ejemplo-1.png" width="320" alt="Ejemplo de Duotono Números Gigantes">
+<img src="images/13-duotono-numeros-gigantes/ejemplo-1.png" width="320" alt="Ejemplo de Duotono Números Gigantes">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -696,7 +651,7 @@ avoid: "bright multicolor palettes, boxes with borders, serif fonts, clip art, l
 
 healthcare_rules: "Use only the provided sources. Never invent doses, indications or figures; leave a marked blank if data is missing. No real patient data. Patient-facing slides end with a small footer: Consult your healthcare professional (in the user's language)."
 ```
-*Estado: sin probar · Archivo: [14-duotono-numeros-gigantes.md](prompts/14-duotono-numeros-gigantes.md) · Inspirado en: Estilo de informe en duotono morado con numeración gigante recortada (captura aportada por la persona que mantiene el repositorio) · Adaptación: Mantenedores del repositorio*
+*Estado: sin probar · Archivo: [13-duotono-numeros-gigantes.md](prompts/13-duotono-numeros-gigantes.md) · Inspirado en: Estilo de informe en duotono morado con numeración gigante recortada (captura aportada por la persona que mantiene el repositorio) · Adaptación: Mantenedores del repositorio*
 
 ## F. Personajes e ilustración
 
@@ -704,7 +659,7 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 
 Divulgación sanitaria con un protagonista recurrente: explicar la piel, el acné, las hormonas, la microbiota o cualquier concepto con dibujos a mano
 
-<img src="images/12-monigote-cientifico/ejemplo-1.png" width="320" alt="Ejemplo de Monigote Científico"> <img src="images/12-monigote-cientifico/protagonista.png" width="320" alt="Ejemplo de Monigote Científico">
+<img src="images/11-monigote-cientifico/ejemplo-1.png" width="320" alt="Ejemplo de Monigote Científico">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -743,13 +698,13 @@ avoid: "color fills, gradients, 3D, photos, long paragraphs, misspelled words"
 
 healthcare_rules: "Use only the provided sources. Never invent doses, indications or figures; leave a marked blank if data is missing. No real patient data. Patient-facing slides end with a small footer: Consult your healthcare professional (in the user's language)."
 ```
-*Estado: sin probar · Archivo: [12-monigote-cientifico.md](prompts/12-monigote-cientifico.md) · Inspirado en: Estilo personal de doodle a tinta sobre papel crema con monigote científico (autoría de la persona que mantiene el repositorio) · Adaptación: Mantenedores del repositorio*
+*Estado: sin probar · Archivo: [11-monigote-cientifico.md](prompts/11-monigote-cientifico.md) · Inspirado en: Estilo personal de doodle a tinta sobre papel crema con monigote científico (autoría de la persona que mantiene el repositorio) · Adaptación: Mantenedores del repositorio*
 
 ### Miniatura Tech Divulgación
 
 Divulgación y formación sobre tecnología, IA y salud digital con portada tipo miniatura de vídeo
 
-<img src="images/15-miniatura-tech-divulgacion/ejemplo-1.png" width="320" alt="Ejemplo de Miniatura Tech Divulgación">
+<img src="images/14-miniatura-tech-divulgacion/ejemplo-1.png" width="320" alt="Ejemplo de Miniatura Tech Divulgación">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -789,7 +744,7 @@ avoid: "cluttered screenshots, small text, light backgrounds, cartoon mascots, s
 
 healthcare_rules: "Use only the provided sources. Never invent doses, indications or figures; leave a marked blank if data is missing. No real patient data. Patient-facing slides end with a small footer: Consult your healthcare professional (in the user's language)."
 ```
-*Estado: sin probar · Archivo: [15-miniatura-tech-divulgacion.md](prompts/15-miniatura-tech-divulgacion.md) · Inspirado en: Estilo de miniatura de formación tecnológica con presentadora ilustrada y fondo azul noche (captura aportada por la persona que mantiene el repositorio) · Adaptación: Mantenedores del repositorio*
+*Estado: sin probar · Archivo: [14-miniatura-tech-divulgacion.md](prompts/14-miniatura-tech-divulgacion.md) · Inspirado en: Estilo de miniatura de formación tecnológica con presentadora ilustrada y fondo azul noche (captura aportada por la persona que mantiene el repositorio) · Adaptación: Mantenedores del repositorio*
 
 ## Cómo contribuir
 

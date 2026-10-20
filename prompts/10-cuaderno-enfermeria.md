@@ -54,6 +54,6 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 
 ## Notas de uso
 - Variante pautada: cambia en el fondo "grid paper" por "ruled lines paper".
-- Añade tus ejemplos reales en `images/11-cuaderno-enfermeria/` y ejecuta `python3 -I scripts/build_readme.py`.
+- Añade tus ejemplos reales en `images/10-cuaderno-enfermeria/` y ejecuta `python3 -I scripts/build_readme.py`.
 
-> 🖼️ Las imágenes de `images/11-cuaderno-enfermeria/` son solo una **guía orientativa** del estilo: el resultado real puede variar según tus fuentes y la herramienta.
+> 🖼️ Las imágenes de `images/10-cuaderno-enfermeria/` son solo una **guía orientativa** del estilo: el resultado real puede variar según tus fuentes y la herramienta.

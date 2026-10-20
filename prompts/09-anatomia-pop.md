@@ -46,4 +46,4 @@ avoid: "real patients, mocking illnesses or disabilities"
 healthcare_rules: "Use only the provided sources. Never invent doses, indications or figures; leave a marked blank if data is missing. No real patient data. Patient-facing slides end with a small footer: Consult your healthcare professional (in the user's language)."
 ```
 
-> 🖼️ Las imágenes de `images/10-anatomia-pop/` son solo una **guía orientativa** del estilo: el resultado real puede variar según tus fuentes y la herramienta.
+> 🖼️ Las imágenes de `images/09-anatomia-pop/` son solo una **guía orientativa** del estilo: el resultado real puede variar según tus fuentes y la herramienta.

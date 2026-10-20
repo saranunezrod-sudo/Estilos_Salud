@@ -53,4 +53,4 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 - El personaje es una ilustración genérica. No uses la imagen de una persona real como protagonista sin su permiso.
 - Para mantener la misma presentadora en todas las diapositivas, sube una imagen de referencia como fuente del cuaderno y pruébalo.
 
-> 🖼️ Las imágenes de `images/15-miniatura-tech-divulgacion/` son solo una **guía orientativa** del estilo: el resultado real puede variar según tus fuentes y la herramienta.
+> 🖼️ Las imágenes de `images/14-miniatura-tech-divulgacion/` son solo una **guía orientativa** del estilo: el resultado real puede variar según tus fuentes y la herramienta.
