@@ -21,7 +21,7 @@ Pensado para que farmacéuticos, médicos, enfermeros y otros profesionales pued
 - Incluyen la cláusula `the language should be what users said in the prompt` en la tipografía.
 - Añaden un bloque `healthcare_rules`: usar solo información de las fuentes, no inventar dosis ni cifras, no mostrar datos de pacientes y añadir el pie "consulta a tu profesional sanitario" en material para pacientes.
 
-> 🎨 **Este repositorio es solo de diseño**: define cómo se ve una presentación, nunca cómo se usa un medicamento o un dispositivo. Las instrucciones de uso (inhaladores, plumas, etc.) varían según el producto y deben salir siempre de la ficha técnica o del prospecto que cargues como fuente.
+> 🎨 **Este repositorio es solo de diseño**: define cómo se ve una presentación, nunca su contenido clínico. Las instrucciones de uso de cada medicamento o producto deben salir siempre de la ficha técnica o del prospecto que cargues como fuente.
 
 > ⚠️ **Aviso importante**: estos prompts controlan el *diseño*, no el *contenido clínico*. La inteligencia artificial puede equivocarse. Verifica dosis, pasos de uso, indicaciones y advertencias con la ficha técnica o la fuente oficial antes de entregar cualquier material. Nunca subas datos identificables de pacientes.
 
