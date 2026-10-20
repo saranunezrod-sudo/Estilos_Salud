@@ -62,7 +62,7 @@ Las imágenes de ejemplo son **solo una guía orientativa**: al usar **IA genera
 
 Novedades, alertas y resúmenes para equipos sanitarios y sesiones internas de farmacia u hospital
 
-<img src="images/01-boletin-sanitario/ejemplo-1.png" width="320" alt="Ejemplo de Boletín Sanitario"> <img src="images/01-boletin-sanitario/ejemplo-2.png" width="320" alt="Ejemplo de Boletín Sanitario"> <img src="images/01-boletin-sanitario/ejemplo-3.png" width="320" alt="Ejemplo de Boletín Sanitario"> <img src="images/01-boletin-sanitario/ejemplo-4.png" width="320" alt="Ejemplo de Boletín Sanitario">
+<img src="images/01-boletin-sanitario/ejemplo-1.png" width="320" alt="Ejemplo de Boletín Sanitario"> <img src="images/01-boletin-sanitario/ejemplo-2.png" width="320" alt="Ejemplo de Boletín Sanitario"> <img src="images/01-boletin-sanitario/ejemplo-3.png" width="320" alt="Ejemplo de Boletín Sanitario">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -105,7 +105,7 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 
 Sesiones clínicas, protocolos y presentaciones formales con mucho espacio en blanco
 
-<img src="images/02-minimalismo-clinico/ejemplo-1.png" width="320" alt="Ejemplo de Minimalismo Clínico"> <img src="images/02-minimalismo-clinico/ejemplo-2.png" width="320" alt="Ejemplo de Minimalismo Clínico"> <img src="images/02-minimalismo-clinico/ejemplo-3.png" width="320" alt="Ejemplo de Minimalismo Clínico"> <img src="images/02-minimalismo-clinico/ejemplo-4.png" width="320" alt="Ejemplo de Minimalismo Clínico">
+<img src="images/02-minimalismo-clinico/ejemplo-1.png" width="320" alt="Ejemplo de Minimalismo Clínico"> <img src="images/02-minimalismo-clinico/ejemplo-2.png" width="320" alt="Ejemplo de Minimalismo Clínico">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -196,7 +196,7 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 
 Niños y familias; explicar procedimientos, vacunas o hábitos de forma amigable
 
-<img src="images/04-pediatria-amable/ejemplo-1.png" width="320" alt="Ejemplo de Pediatría Amable">
+<img src="images/04-pediatria-amable/ejemplo-1.png" width="320" alt="Ejemplo de Pediatría Amable"> <img src="images/04-pediatria-amable/ejemplo-2.png" width="320" alt="Ejemplo de Pediatría Amable"> <img src="images/04-pediatria-amable/ejemplo-3.png" width="320" alt="Ejemplo de Pediatría Amable">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
