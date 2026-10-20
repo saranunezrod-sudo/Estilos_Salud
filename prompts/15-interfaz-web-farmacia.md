@@ -1,6 +1,6 @@
 ---
 title: Interfaz Web Farmacia
-category: A. Clínico y profesional
+category: E. Herramientas digitales
 format: design_system
 audience: Presentar herramientas digitales, catálogos, consultas y proyectos de farmacia con aspecto de producto web moderno
 status: sin probar
