@@ -3,7 +3,6 @@ title: Cosmética Premium Mockup
 category: C. Producto y cosmética
 format: design_system
 audience: Presentar productos cosméticos y dermocosméticos a clientes, equipo de farmacia o proveedores
-status: probado
 author: Mantenedores del repositorio
 inspired_by: Studio / Mockup / Premium (https://note.com/yoshifujidesign/n/n7412bccb5762) vía awesome-notebookLM-prompts
 ---
@@ -49,8 +48,5 @@ avoid: "invented claims, percentages, certifications, brand logos"
 
 healthcare_rules: "Use only the provided sources. Never invent doses, indications or figures; leave a marked blank if data is missing. No real patient data. Patient-facing slides end with a small footer: Consult your healthcare professional (in the user's language)."
 ```
-
-## Notas de uso
-- Probado en NotebookLM en octubre de 2026.
 
 > 🖼️ Las imágenes de `images/05-cosmetica-premium-mockup/` son solo una **guía orientativa** del estilo: el resultado real puede variar según tus fuentes y la herramienta.

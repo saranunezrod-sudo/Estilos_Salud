@@ -3,7 +3,6 @@ title: Botánico Acuarela
 category: C. Producto y cosmética
 format: design_system
 audience: Fitoterapia, productos naturales, plantas medicinales y gamas de cosmética natural
-status: sin probar
 author: Mantenedores del repositorio
 inspired_by: Royal Blue and Red watercolor (https://x.com/kottley/status/1994442047579721782) vía awesome-notebookLM-prompts
 ---

@@ -6,8 +6,7 @@ sys.path.insert(0, str(__import__("pathlib").Path(__file__).resolve().parent))
 from prompts_lib import all_prompt_files  # noqa: E402
 from prompts_lib import parse_prompt_file  # noqa: E402
 
-REQUIRED_META = ["title", "category", "format", "audience", "status", "author", "inspired_by"]
-VALID_STATUS = {"sin probar", "probado"}
+REQUIRED_META = ["title", "category", "format", "audience", "author", "inspired_by"]
 LANG_CLAUSE = "the language should be what users said in the prompt"
 LANG_CLAUSE_ALT = "the language what users requested in the prompt"
 
@@ -23,8 +22,6 @@ def check(path):
             errors.append(f"front matter: falta '{key}'")
     if meta.get("format") != "design_system":
         errors.append("front matter: 'format' debe ser 'design_system'")
-    if meta.get("status") not in VALID_STATUS:
-        errors.append(f"front matter: 'status' debe ser uno de {sorted(VALID_STATUS)}")
     low = prompt.lower()
     if LANG_CLAUSE not in low and LANG_CLAUSE_ALT not in low:
         errors.append(f"falta la cláusula de idioma: '{LANG_CLAUSE}'")

@@ -3,7 +3,6 @@ title: Monigote Científico
 category: F. Personajes e ilustración
 format: design_system
 audience: Divulgación sanitaria con un protagonista recurrente: explicar la piel, el acné, las hormonas, la microbiota o cualquier concepto con dibujos a mano
-status: sin probar
 author: Mantenedores del repositorio
 inspired_by: Estilo personal de doodle a tinta sobre papel crema con monigote científico (autoría de la persona que mantiene el repositorio)
 ---

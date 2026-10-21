@@ -3,7 +3,6 @@ title: Interfaz Web Farmacia
 category: E. Herramientas digitales
 format: design_system
 audience: Presentar herramientas digitales, catálogos, consultas y proyectos de farmacia con aspecto de producto web moderno
-status: sin probar
 author: Mantenedores del repositorio
 inspired_by: Estilo de landing page de producto sanitario verde sobre blanco roto (captura aportada por la persona que mantiene el repositorio)
 ---

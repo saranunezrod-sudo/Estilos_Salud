@@ -3,7 +3,6 @@ title: Boletín Sanitario
 category: A. Clínico y profesional
 format: design_system
 audience: Novedades, alertas y resúmenes para equipos sanitarios y sesiones internas de farmacia u hospital
-status: probado
 author: Mantenedores del repositorio
 inspired_by: Modern Newspaper (https://x.com/mmmiyama_D/status/1998528702150488069) vía awesome-notebookLM-prompts
 ---
@@ -47,7 +46,6 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 ```
 
 ## Notas de uso
-- Probado en NotebookLM en octubre de 2026.
 - Funciona bien con resúmenes de guías, notas informativas de la AEMPS o artículos de revistas.
 - Revisa que las cifras de los titulares gigantes coincidan con la fuente.
 

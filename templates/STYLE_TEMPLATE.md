@@ -3,7 +3,6 @@ title: Nombre del estilo
 category: A. Clínico y profesional
 format: design_system
 audience: Para quién y para qué sirve (una línea)
-status: sin probar
 author: Tu nombre o usuario de GitHub
 inspired_by: Estilo del repo original o fuente en que te basas (con enlace)
 ---

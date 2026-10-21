@@ -3,7 +3,6 @@ title: Anatomía Pop
 category: D. Retro y creativos
 format: design_system
 audience: Formación creativa, divulgación del cuerpo humano, cursos y jornadas con tono desenfadado
-status: sin probar
 author: Mantenedores del repositorio
 inspired_by: Classic / Pop, Sculpture x Vaporwave (https://note.com/yoshifujidesign/n/n7412bccb5762) vía awesome-notebookLM-prompts
 ---

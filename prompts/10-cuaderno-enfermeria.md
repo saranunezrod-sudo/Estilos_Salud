@@ -3,7 +3,6 @@ title: Cuaderno de Enfermería
 category: D. Retro y creativos
 format: design_system
 audience: Apuntes, resúmenes de estudio, formación y sesiones con aspecto de cuaderno
-status: sin probar
 author: Mantenedores del repositorio
 inspired_by: Neo-Retro Dev Deck / Pixel-Infographic Editorial (awesome-notebookLM-prompts)
 ---

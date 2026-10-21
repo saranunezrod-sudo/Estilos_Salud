@@ -51,7 +51,7 @@ def main():
             out.append("```yaml")
             out.append(prompt)
             out.append("```")
-            out.append(f"*Estado: {meta['status']} · Archivo: [{path.name}](prompts/{path.name}) · "
+            out.append(f"*Archivo: [{path.name}](prompts/{path.name}) · "
                        f"Inspirado en: {meta['inspired_by']} · Adaptación: {meta['author']}*\n")
 
     out.append((ROOT / "templates" / "README_FOOT.md").read_text(encoding="utf-8").rstrip())

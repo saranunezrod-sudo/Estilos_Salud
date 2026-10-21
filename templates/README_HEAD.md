@@ -25,4 +25,4 @@ Pensado para que farmacéuticos, médicos, enfermeros y otros profesionales pued
 
 > ⚠️ **Aviso importante**: estos prompts controlan el *diseño*, no el *contenido clínico*. La inteligencia artificial puede equivocarse. Verifica dosis, pasos de uso, indicaciones y advertencias con la ficha técnica o la fuente oficial antes de entregar cualquier material. Nunca subas datos identificables de pacientes.
 
-Las imágenes de ejemplo son **solo una guía orientativa**: al usar **IA generativa**, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM. Los estados `sin probar` / `probado` indican si el estilo ya se ha comprobado en NotebookLM con capturas en [images/](images/). ¿Lo has probado? ¡Aporta tus capturas! Consulta [CONTRIBUTING.md](CONTRIBUTING.md).
+Las imágenes de ejemplo son **solo una guía orientativa**: al usar **IA generativa**, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM. ¿Tienes un estilo que te funciona? ¡Compártelo! Consulta [CONTRIBUTING.md](CONTRIBUTING.md).

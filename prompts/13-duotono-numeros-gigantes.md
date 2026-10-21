@@ -3,7 +3,6 @@ title: Duotono Números Gigantes
 category: D. Retro y creativos
 format: design_system
 audience: Informes, estudios y resúmenes ejecutivos numerados con estética tecnológica y editorial
-status: sin probar
 author: Mantenedores del repositorio
 inspired_by: Estilo de informe en duotono morado con numeración gigante recortada (captura aportada por la persona que mantiene el repositorio)
 ---

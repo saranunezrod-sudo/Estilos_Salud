@@ -3,7 +3,6 @@ title: Miniatura Tech Divulgación
 category: F. Personajes e ilustración
 format: design_system
 audience: Divulgación y formación sobre tecnología, IA y salud digital con portada tipo miniatura de vídeo
-status: sin probar
 author: Mantenedores del repositorio
 inspired_by: Estilo de miniatura de formación tecnológica con presentadora ilustrada y fondo azul noche (captura aportada por la persona que mantiene el repositorio)
 ---

@@ -3,7 +3,6 @@ title: Revista Amarilla Collage
 category: D. Retro y creativos
 format: design_system
 audience: Novedades normativas, reglas de dispensación y formación de equipo con tono de revista de moda y collage
-status: sin probar
 author: Mantenedores del repositorio
 inspired_by: Estilo editorial amarillo y negro con fotografía en blanco y negro, cinta adhesiva y papel rasgado (capturas aportadas por la persona que mantiene el repositorio)
 ---

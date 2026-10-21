@@ -4,7 +4,7 @@
 
 ## Formas de contribuir
 - **Proponer un estilo nuevo** (issue con la plantilla *Proponer un nuevo estilo*, o pull request directo).
-- **Probar un estilo** en NotebookLM y subir capturas (sin datos de pacientes) para pasarlo a `probado`.
+- **Probar un estilo** en NotebookLM y compartir capturas del resultado (sin datos de pacientes).
 - **Mejorar un prompt** existente o corregir erratas.
 - **Traducir o ampliar** la documentación.
 
@@ -37,10 +37,6 @@
 ## Autoría y licencia
 - Al contribuir aceptas publicar tu aportación bajo **CC BY 4.0** (prompts, documentación e imágenes) o **MIT** (código en `scripts/`).
 - Tu nombre o usuario de GitHub figurará en el campo `author` del estilo.
-
-## Estados de un estilo
-- `sin probar`: el prompt cumple la estructura pero no hay capturas de resultados.
-- `probado`: al menos 2 capturas en `images/NN-nombre/` generadas con NotebookLM. Indica la fecha en las notas de uso, ya que la herramienta cambia.
 
 ## Revisión
 Quienes mantienen el repositorio revisarán el PR comprobando estructura, bloque sanitario y licencias. Las sugerencias de cambios son una forma de mejorar el estilo, no una crítica.
