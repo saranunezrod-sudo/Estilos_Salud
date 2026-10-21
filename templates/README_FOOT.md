@@ -1,3 +1,7 @@
+## Participa
+
+💬 Comparte tus resultados, propón ideas y resuelve dudas en [**Discussions**](https://github.com/saranunezrod-sudo/Estilos_Salud/discussions).
+
 ## Cómo contribuir
 
 ¿Tienes un estilo que te funciona? Propón uno nuevo por **issue** o **pull request**. Todos los pasos están en [CONTRIBUTING.md](CONTRIBUTING.md).

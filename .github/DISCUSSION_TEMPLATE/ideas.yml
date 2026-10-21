@@ -1,0 +1,24 @@
+title: "[Idea] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por proponer. Aquí defines la idea; después podremos convertirla en un estilo.
+        **No incluyas datos de pacientes ni imágenes con derechos de terceros.**
+  - type: input
+    id: nombre
+    attributes:
+      label: Nombre del estilo
+    validations:
+      required: true
+  - type: textarea
+    id: uso
+    attributes:
+      label: ¿Para qué sirve y a quién va dirigido?
+    validations:
+      required: true
+  - type: textarea
+    id: referencias
+    attributes:
+      label: Referencias visuales o prompt de partida
+      description: Enlaces, descripción o el prompt si ya lo tienes (en inglés, formato design_system).

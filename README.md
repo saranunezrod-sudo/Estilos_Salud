@@ -750,6 +750,10 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 ```
 *Archivo: [14-miniatura-tech-divulgacion.md](prompts/14-miniatura-tech-divulgacion.md) · Inspirado en: Estilo de miniatura de formación tecnológica con presentadora ilustrada y fondo azul noche (captura aportada por la persona que mantiene el repositorio) · Adaptación: Mantenedores del repositorio*
 
+## Participa
+
+💬 Comparte tus resultados, propón ideas y resuelve dudas en [**Discussions**](https://github.com/saranunezrod-sudo/Estilos_Salud/discussions).
+
 ## Cómo contribuir
 
 ¿Tienes un estilo que te funciona? Propón uno nuevo por **issue** o **pull request**. Todos los pasos están en [CONTRIBUTING.md](CONTRIBUTING.md).

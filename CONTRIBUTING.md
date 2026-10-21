@@ -3,6 +3,7 @@
 ¡Gracias por aportar! Este repositorio es de y para profesionales sanitarios. No hace falta saber programar: un estilo es un archivo de texto.
 
 ## Formas de contribuir
+- **Conversar**: comparte resultados, ideas y dudas en [Discussions](https://github.com/saranunezrod-sudo/Estilos_Salud/discussions) antes de abrir un pull request.
 - **Proponer un estilo nuevo** (issue con la plantilla *Proponer un nuevo estilo*, o pull request directo).
 - **Probar un estilo** en NotebookLM y compartir capturas del resultado (sin datos de pacientes).
 - **Mejorar un prompt** existente o corregir erratas.
