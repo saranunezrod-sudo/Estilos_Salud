@@ -3,7 +3,7 @@ title: Minimalismo Clínico
 category: A. Clínico y profesional
 format: design_system
 audience: Sesiones clínicas, protocolos y presentaciones formales con mucho espacio en blanco
-status: sin probar
+status: probado
 author: Mantenedores del repositorio
 inspired_by: Sharp-edged Minimalism (https://x.com/yoshifujidesign/status/1997878247322001626) vía awesome-notebookLM-prompts
 ---
@@ -51,6 +51,7 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 ```
 
 ## Notas de uso
+- Probado en NotebookLM en octubre de 2026.
 - Muy buen resultado con artículos científicos o guías de práctica clínica como fuente.
 
 > 🖼️ Las imágenes de `images/02-minimalismo-clinico/` son solo una **guía orientativa** del estilo: el resultado real puede variar según tus fuentes y la herramienta.

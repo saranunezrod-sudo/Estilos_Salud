@@ -99,7 +99,7 @@ slide_layout_templates:
 
 healthcare_rules: "Use only the provided sources. Never invent doses, indications or figures; leave a marked blank if data is missing. No real patient data. Patient-facing slides end with a small footer: Consult your healthcare professional (in the user's language)."
 ```
-*Estado: sin probar · Archivo: [01-boletin-sanitario.md](prompts/01-boletin-sanitario.md) · Inspirado en: Modern Newspaper (https://x.com/mmmiyama_D/status/1998528702150488069) vía awesome-notebookLM-prompts · Adaptación: Mantenedores del repositorio*
+*Estado: probado · Archivo: [01-boletin-sanitario.md](prompts/01-boletin-sanitario.md) · Inspirado en: Modern Newspaper (https://x.com/mmmiyama_D/status/1998528702150488069) vía awesome-notebookLM-prompts · Adaptación: Mantenedores del repositorio*
 
 ### Minimalismo Clínico
 
@@ -146,7 +146,7 @@ slide_layout_templates:
 
 healthcare_rules: "Use only the provided sources. Never invent doses, indications or figures; leave a marked blank if data is missing. No real patient data. Patient-facing slides end with a small footer: Consult your healthcare professional (in the user's language)."
 ```
-*Estado: sin probar · Archivo: [02-minimalismo-clinico.md](prompts/02-minimalismo-clinico.md) · Inspirado en: Sharp-edged Minimalism (https://x.com/yoshifujidesign/status/1997878247322001626) vía awesome-notebookLM-prompts · Adaptación: Mantenedores del repositorio*
+*Estado: probado · Archivo: [02-minimalismo-clinico.md](prompts/02-minimalismo-clinico.md) · Inspirado en: Sharp-edged Minimalism (https://x.com/yoshifujidesign/status/1997878247322001626) vía awesome-notebookLM-prompts · Adaptación: Mantenedores del repositorio*
 
 ### Sesión Clínica Minimal
 
@@ -188,7 +188,7 @@ slide_layout_templates:
 
 healthcare_rules: "Use only the provided sources. Never invent doses, indications or figures; leave a marked blank if data is missing. No real patient data. Patient-facing slides end with a small footer: Consult your healthcare professional (in the user's language)."
 ```
-*Estado: sin probar · Archivo: [03-sesion-clinica-minimal.md](prompts/03-sesion-clinica-minimal.md) · Inspirado en: For Seminar Use, Minimal Text (Kawai, https://x.com/kawai_design) vía awesome-notebookLM-prompts · Adaptación: Mantenedores del repositorio*
+*Estado: probado · Archivo: [03-sesion-clinica-minimal.md](prompts/03-sesion-clinica-minimal.md) · Inspirado en: For Seminar Use, Minimal Text (Kawai, https://x.com/kawai_design) vía awesome-notebookLM-prompts · Adaptación: Mantenedores del repositorio*
 
 ## B. Educación al paciente
 
@@ -231,7 +231,7 @@ slide_layout_templates:
 
 healthcare_rules: "Use only the provided sources. Never invent doses, indications or figures; leave a marked blank if data is missing. No real patient data. Patient-facing slides end with a small footer: Consult your healthcare professional (in the user's language)."
 ```
-*Estado: sin probar · Archivo: [04-pediatria-amable.md](prompts/04-pediatria-amable.md) · Inspirado en: Deformed Flat Persona (Kawai, https://x.com/kawai_design) vía awesome-notebookLM-prompts · Adaptación: Mantenedores del repositorio*
+*Estado: probado · Archivo: [04-pediatria-amable.md](prompts/04-pediatria-amable.md) · Inspirado en: Deformed Flat Persona (Kawai, https://x.com/kawai_design) vía awesome-notebookLM-prompts · Adaptación: Mantenedores del repositorio*
 
 ## C. Producto y cosmética
 
@@ -280,7 +280,7 @@ avoid: "invented claims, percentages, certifications, brand logos"
 
 healthcare_rules: "Use only the provided sources. Never invent doses, indications or figures; leave a marked blank if data is missing. No real patient data. Patient-facing slides end with a small footer: Consult your healthcare professional (in the user's language)."
 ```
-*Estado: sin probar · Archivo: [05-cosmetica-premium-mockup.md](prompts/05-cosmetica-premium-mockup.md) · Inspirado en: Studio / Mockup / Premium (https://note.com/yoshifujidesign/n/n7412bccb5762) vía awesome-notebookLM-prompts · Adaptación: Mantenedores del repositorio*
+*Estado: probado · Archivo: [05-cosmetica-premium-mockup.md](prompts/05-cosmetica-premium-mockup.md) · Inspirado en: Studio / Mockup / Premium (https://note.com/yoshifujidesign/n/n7412bccb5762) vía awesome-notebookLM-prompts · Adaptación: Mantenedores del repositorio*
 
 ### Dermocosmética Editorial
 
@@ -322,7 +322,7 @@ avoid: "childish vivid colors, flashy gradients, heavy shadows, miracle or guara
 
 healthcare_rules: "Use only the provided sources. Never invent doses, indications or figures; leave a marked blank if data is missing. No real patient data. Patient-facing slides end with a small footer: Consult your healthcare professional (in the user's language)."
 ```
-*Estado: sin probar · Archivo: [06-dermocosmetica-editorial.md](prompts/06-dermocosmetica-editorial.md) · Inspirado en: Magazine style (https://x.com/tetumemo/status/1996930284500201685) vía awesome-notebookLM-prompts · Adaptación: Mantenedores del repositorio*
+*Estado: probado · Archivo: [06-dermocosmetica-editorial.md](prompts/06-dermocosmetica-editorial.md) · Inspirado en: Magazine style (https://x.com/tetumemo/status/1996930284500201685) vía awesome-notebookLM-prompts · Adaptación: Mantenedores del repositorio*
 
 ### Botánico Acuarela
 
@@ -419,7 +419,7 @@ slide_layout_templates:
 
 healthcare_rules: "Use only the provided sources. Never invent doses, indications or figures; leave a marked blank if data is missing. No real patient data. Patient-facing slides end with a small footer: Consult your healthcare professional (in the user's language)."
 ```
-*Estado: sin probar · Archivo: [08-film-scrapbook.md](prompts/08-film-scrapbook.md) · Inspirado en: Film Scrapbook (ejemplo de design_system aportado por la persona que mantiene el repositorio) · Adaptación: Mantenedores del repositorio*
+*Estado: probado · Archivo: [08-film-scrapbook.md](prompts/08-film-scrapbook.md) · Inspirado en: Film Scrapbook (ejemplo de design_system aportado por la persona que mantiene el repositorio) · Adaptación: Mantenedores del repositorio*
 
 ### Anatomía Pop
 

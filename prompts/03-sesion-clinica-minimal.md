@@ -3,7 +3,7 @@ title: Sesión Clínica Minimal
 category: A. Clínico y profesional
 format: design_system
 audience: Sesiones y charlas con poco texto y mucho impacto visual
-status: sin probar
+status: probado
 author: Mantenedores del repositorio
 inspired_by: For Seminar Use, Minimal Text (Kawai, https://x.com/kawai_design) vía awesome-notebookLM-prompts
 ---
@@ -46,6 +46,7 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 ```
 
 ## Notas de uso
+- Probado en NotebookLM en octubre de 2026.
 - Ideal cuando la fuente es larga y solo quieres ideas fuerza por slide.
 
 > 🖼️ Las imágenes de `images/03-sesion-clinica-minimal/` son solo una **guía orientativa** del estilo: el resultado real puede variar según tus fuentes y la herramienta.

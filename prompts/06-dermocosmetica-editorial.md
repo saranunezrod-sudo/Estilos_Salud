@@ -3,7 +3,7 @@ title: Dermocosmética Editorial
 category: C. Producto y cosmética
 format: design_system
 audience: Campañas de farmacia, consejos de cuidado de la piel y presentaciones de gama
-status: sin probar
+status: probado
 author: Mantenedores del repositorio
 inspired_by: Magazine style (https://x.com/tetumemo/status/1996930284500201685) vía awesome-notebookLM-prompts
 ---
@@ -44,5 +44,8 @@ avoid: "childish vivid colors, flashy gradients, heavy shadows, miracle or guara
 
 healthcare_rules: "Use only the provided sources. Never invent doses, indications or figures; leave a marked blank if data is missing. No real patient data. Patient-facing slides end with a small footer: Consult your healthcare professional (in the user's language)."
 ```
+
+## Notas de uso
+- Probado en NotebookLM en octubre de 2026.
 
 > 🖼️ Las imágenes de `images/06-dermocosmetica-editorial/` son solo una **guía orientativa** del estilo: el resultado real puede variar según tus fuentes y la herramienta.

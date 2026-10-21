@@ -3,7 +3,7 @@ title: Film Scrapbook
 category: D. Retro y creativos
 format: design_system
 audience: Historias, biografías, casos narrados, historia de la farmacia y presentaciones tipo documental
-status: sin probar
+status: probado
 author: Mantenedores del repositorio
 inspired_by: Film Scrapbook (ejemplo de design_system aportado por la persona que mantiene el repositorio)
 ---
@@ -58,6 +58,7 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 ```
 
 ## Notas de uso
+- Probado en NotebookLM en octubre de 2026.
 - Funciona bien para narrativa: línea temporal de una trayectoria, evolución de un tratamiento o historia de una botica.
 - Añade tus ejemplos reales en `images/08-film-scrapbook/` y ejecuta `python3 -I scripts/build_readme.py`.
 

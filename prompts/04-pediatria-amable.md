@@ -3,7 +3,7 @@ title: Pediatría Amable
 category: B. Educación al paciente
 format: design_system
 audience: Niños y familias; explicar procedimientos, vacunas o hábitos de forma amigable
-status: sin probar
+status: probado
 author: Mantenedores del repositorio
 inspired_by: Deformed Flat Persona (Kawai, https://x.com/kawai_design) vía awesome-notebookLM-prompts
 ---
@@ -45,6 +45,7 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 ```
 
 ## Notas de uso
+- Probado en NotebookLM en octubre de 2026.
 - Funciona bien para explicar "qué va a pasar" antes de una vacuna o una analítica.
 - Revisa que el texto no genere miedo ni prometa que "no dolerá" si la fuente no lo dice.
 
