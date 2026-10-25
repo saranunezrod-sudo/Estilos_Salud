@@ -44,8 +44,8 @@ def main():
             )
             if images:
                 out.append(" ".join(
-                    f'<img src="images/{path.stem}/{quote(p.name)}" width="320" alt="Ejemplo de {meta["title"]}">'
-                    for p in images
+                    f'<img src="images/{path.stem}/{quote(p.name)}" width="320" alt="Ejemplo {n} de {meta["title"]}">'
+                    for n, p in enumerate(images, 1)
                 ))
                 out.append("\n*Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*\n")
             out.append("```yaml")

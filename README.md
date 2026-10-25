@@ -62,7 +62,7 @@ Las imágenes de ejemplo son **solo una guía orientativa**: al usar **IA genera
 
 Novedades, alertas y resúmenes para equipos sanitarios y sesiones internas de farmacia u hospital
 
-<img src="images/01-boletin-sanitario/ejemplo-1.png" width="320" alt="Ejemplo de Boletín Sanitario"> <img src="images/01-boletin-sanitario/ejemplo-2.png" width="320" alt="Ejemplo de Boletín Sanitario"> <img src="images/01-boletin-sanitario/ejemplo-3.png" width="320" alt="Ejemplo de Boletín Sanitario">
+<img src="images/01-boletin-sanitario/ejemplo-1.png" width="320" alt="Ejemplo 1 de Boletín Sanitario"> <img src="images/01-boletin-sanitario/ejemplo-2.png" width="320" alt="Ejemplo 2 de Boletín Sanitario"> <img src="images/01-boletin-sanitario/ejemplo-3.png" width="320" alt="Ejemplo 3 de Boletín Sanitario">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -105,7 +105,7 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 
 Sesiones clínicas, protocolos y presentaciones formales con mucho espacio en blanco
 
-<img src="images/02-minimalismo-clinico/ejemplo-1.png" width="320" alt="Ejemplo de Minimalismo Clínico"> <img src="images/02-minimalismo-clinico/ejemplo-2.png" width="320" alt="Ejemplo de Minimalismo Clínico">
+<img src="images/02-minimalismo-clinico/ejemplo-1.png" width="320" alt="Ejemplo 1 de Minimalismo Clínico"> <img src="images/02-minimalismo-clinico/ejemplo-2.png" width="320" alt="Ejemplo 2 de Minimalismo Clínico">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -152,7 +152,7 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 
 Sesiones y charlas con poco texto y mucho impacto visual
 
-<img src="images/03-sesion-clinica-minimal/ejemplo-1.png" width="320" alt="Ejemplo de Sesión Clínica Minimal"> <img src="images/03-sesion-clinica-minimal/ejemplo-2.png" width="320" alt="Ejemplo de Sesión Clínica Minimal">
+<img src="images/03-sesion-clinica-minimal/ejemplo-1.png" width="320" alt="Ejemplo 1 de Sesión Clínica Minimal"> <img src="images/03-sesion-clinica-minimal/ejemplo-2.png" width="320" alt="Ejemplo 2 de Sesión Clínica Minimal">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -196,7 +196,7 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 
 Niños y familias; explicar procedimientos, vacunas o hábitos de forma amigable
 
-<img src="images/04-pediatria-amable/ejemplo-1.png" width="320" alt="Ejemplo de Pediatría Amable"> <img src="images/04-pediatria-amable/ejemplo-2.png" width="320" alt="Ejemplo de Pediatría Amable"> <img src="images/04-pediatria-amable/ejemplo-3.png" width="320" alt="Ejemplo de Pediatría Amable">
+<img src="images/04-pediatria-amable/ejemplo-1.png" width="320" alt="Ejemplo 1 de Pediatría Amable"> <img src="images/04-pediatria-amable/ejemplo-2.png" width="320" alt="Ejemplo 2 de Pediatría Amable"> <img src="images/04-pediatria-amable/ejemplo-3.png" width="320" alt="Ejemplo 3 de Pediatría Amable">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -239,7 +239,7 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 
 Presentar productos cosméticos y dermocosméticos a clientes, equipo de farmacia o proveedores
 
-<img src="images/05-cosmetica-premium-mockup/ejemplo-1.png" width="320" alt="Ejemplo de Cosmética Premium Mockup"> <img src="images/05-cosmetica-premium-mockup/ejemplo-2.png" width="320" alt="Ejemplo de Cosmética Premium Mockup">
+<img src="images/05-cosmetica-premium-mockup/ejemplo-1.png" width="320" alt="Ejemplo 1 de Cosmética Premium Mockup"> <img src="images/05-cosmetica-premium-mockup/ejemplo-2.png" width="320" alt="Ejemplo 2 de Cosmética Premium Mockup">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -286,7 +286,7 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 
 Campañas de farmacia, consejos de cuidado de la piel y presentaciones de gama
 
-<img src="images/06-dermocosmetica-editorial/ejemplo-1.png" width="320" alt="Ejemplo de Dermocosmética Editorial"> <img src="images/06-dermocosmetica-editorial/ejemplo-2.png" width="320" alt="Ejemplo de Dermocosmética Editorial"> <img src="images/06-dermocosmetica-editorial/ejemplo-3.png" width="320" alt="Ejemplo de Dermocosmética Editorial">
+<img src="images/06-dermocosmetica-editorial/ejemplo-1.png" width="320" alt="Ejemplo 1 de Dermocosmética Editorial"> <img src="images/06-dermocosmetica-editorial/ejemplo-2.png" width="320" alt="Ejemplo 2 de Dermocosmética Editorial"> <img src="images/06-dermocosmetica-editorial/ejemplo-3.png" width="320" alt="Ejemplo 3 de Dermocosmética Editorial">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -328,7 +328,7 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 
 Fitoterapia, productos naturales, plantas medicinales y gamas de cosmética natural
 
-<img src="images/07-botanico-acuarela/ejemplo-1.png" width="320" alt="Ejemplo de Botánico Acuarela">
+<img src="images/07-botanico-acuarela/ejemplo-1.png" width="320" alt="Ejemplo 1 de Botánico Acuarela">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -371,7 +371,7 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 
 Historias, biografías, casos narrados, historia de la farmacia y presentaciones tipo documental
 
-<img src="images/08-film-scrapbook/ejemplo-1.png" width="320" alt="Ejemplo de Film Scrapbook"> <img src="images/08-film-scrapbook/ejemplo-2.png" width="320" alt="Ejemplo de Film Scrapbook">
+<img src="images/08-film-scrapbook/ejemplo-1.png" width="320" alt="Ejemplo 1 de Film Scrapbook"> <img src="images/08-film-scrapbook/ejemplo-2.png" width="320" alt="Ejemplo 2 de Film Scrapbook">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -425,7 +425,7 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 
 Formación creativa, divulgación del cuerpo humano, cursos y jornadas con tono desenfadado
 
-<img src="images/09-anatomia-pop/ejemplo-1.png" width="320" alt="Ejemplo de Anatomía Pop">
+<img src="images/09-anatomia-pop/ejemplo-1.png" width="320" alt="Ejemplo 1 de Anatomía Pop"> <img src="images/09-anatomia-pop/ejemplo-2.png" width="320" alt="Ejemplo 2 de Anatomía Pop">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -468,7 +468,7 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 
 Apuntes, resúmenes de estudio, formación y sesiones con aspecto de cuaderno
 
-<img src="images/10-cuaderno-enfermeria/ejemplo-1.png" width="320" alt="Ejemplo de Cuaderno de Enfermería">
+<img src="images/10-cuaderno-enfermeria/ejemplo-1.png" width="320" alt="Ejemplo 1 de Cuaderno de Enfermería"> <img src="images/10-cuaderno-enfermeria/ejemplo-2.png" width="320" alt="Ejemplo 2 de Cuaderno de Enfermería"> <img src="images/10-cuaderno-enfermeria/ejemplo-3.png" width="320" alt="Ejemplo 3 de Cuaderno de Enfermería">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -517,7 +517,7 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 
 Novedades normativas, reglas de dispensación y formación de equipo con tono de revista de moda y collage
 
-<img src="images/12-revista-amarilla-collage/ejemplo-1.png" width="320" alt="Ejemplo de Revista Amarilla Collage">
+<img src="images/12-revista-amarilla-collage/ejemplo-1.png" width="320" alt="Ejemplo 1 de Revista Amarilla Collage">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -564,7 +564,7 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 
 Informes, estudios y resúmenes ejecutivos numerados con estética tecnológica y editorial
 
-<img src="images/13-duotono-numeros-gigantes/ejemplo-1.png" width="320" alt="Ejemplo de Duotono Números Gigantes">
+<img src="images/13-duotono-numeros-gigantes/ejemplo-1.png" width="320" alt="Ejemplo 1 de Duotono Números Gigantes"> <img src="images/13-duotono-numeros-gigantes/ejemplo-2.png" width="320" alt="Ejemplo 2 de Duotono Números Gigantes">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -611,7 +611,7 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 
 Presentar herramientas digitales, catálogos, consultas y proyectos de farmacia con aspecto de producto web moderno
 
-<img src="images/15-interfaz-web-farmacia/ejemplo-1.png" width="320" alt="Ejemplo de Interfaz Web Farmacia">
+<img src="images/15-interfaz-web-farmacia/ejemplo-1.png" width="320" alt="Ejemplo 1 de Interfaz Web Farmacia">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -663,7 +663,7 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 
 Divulgación sanitaria con un protagonista recurrente: explicar la piel, el acné, las hormonas, la microbiota o cualquier concepto con dibujos a mano
 
-<img src="images/11-monigote-cientifico/ejemplo-1.png" width="320" alt="Ejemplo de Monigote Científico">
+<img src="images/11-monigote-cientifico/ejemplo-1.png" width="320" alt="Ejemplo 1 de Monigote Científico"> <img src="images/11-monigote-cientifico/ejemplo-2.png" width="320" alt="Ejemplo 2 de Monigote Científico"> <img src="images/11-monigote-cientifico/ejemplo-3.png" width="320" alt="Ejemplo 3 de Monigote Científico">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
@@ -708,7 +708,7 @@ healthcare_rules: "Use only the provided sources. Never invent doses, indication
 
 Divulgación y formación sobre tecnología, IA y salud digital con portada tipo miniatura de vídeo
 
-<img src="images/14-miniatura-tech-divulgacion/ejemplo-1.png" width="320" alt="Ejemplo de Miniatura Tech Divulgación">
+<img src="images/14-miniatura-tech-divulgacion/ejemplo-1.png" width="320" alt="Ejemplo 1 de Miniatura Tech Divulgación">
 
 *Imágenes orientativas: al usar IA generativa, el resultado puede variar entre generaciones, según tus fuentes y con las actualizaciones de NotebookLM.*
 
